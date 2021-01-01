@@ -5,7 +5,7 @@ Admob implementation in React Native with Firebase. For detailed instructions, c
 Gthub: enappd/react-native-admob
 
 # Before start
-yarn insall
+yarn insall<br />
 cd ios && pod install
 
 https://rnfirebase.io/reference/admob/interstitialad
